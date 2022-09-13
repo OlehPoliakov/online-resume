@@ -1,0 +1,32 @@
+[
+  {
+    "id": "id-1",
+    "link": "tel:380991715550",
+    "text": "+38 099 171 55 50"
+  },
+  {
+    "id": "id-2",
+    "link": "mailto:oleg.yurievi4@gmail.com",
+    "text": "oleg.yurievi4@gmail.com"
+  },
+  {
+    "id": "id-3",
+    "link": "",
+    "text": "Portfolio"
+  },
+  {
+    "id": "id-4",
+    "link": "https://github.com/OlehPoliakov/",
+    "text": "GitHub"
+  },
+  {
+    "id": "id-5",
+    "link": "https://www.linkedin.com/in/oleh-poliakov-2a7957122/",
+    "text": "LinkedIn"
+  },
+  {
+    "id": "id-6",
+    "link": "https://t.me/OlehRurikovich",
+    "text": "Telegram"
+  }
+]

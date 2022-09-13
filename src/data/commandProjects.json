@@ -1,0 +1,14 @@
+[
+  {
+    "id": "id-11",
+    "label": "IceCream",
+    "link": "https://olehpoliakov.github.io/Bootcamp-27-teamwork/",
+    "tech": "HTML5, Sass, JavaScript"
+  },
+  {
+    "id": "id-22",
+    "label": "Filmoteka",
+    "link": "https://olehpoliakov.github.io/Filmoteka/",
+    "tech": "HTML5, Sass, JavaScript"
+  }
+]
