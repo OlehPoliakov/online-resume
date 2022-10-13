@@ -1,17 +1,17 @@
-import Wrapper from './components/Wrapper';
+import Container from './components/Container';
 import Sidebar from './components/Sidebar';
 import AboutMe from './components/AboutMe';
-import contacts from './data/contacts.json';
-import techSkills from './data/techSkills.json';
-import softSkills from './data/softSkills.json';
-import commandProjects from './data/commandProjects.json';
-import ownProjects from './data/ownProjects.json';
-import experience from './data/experience.json';
-import education from './data/education.json';
+import contacts from './db/contacts.json';
+import techSkills from './db/techSkills.json';
+import softSkills from './db/softSkills.json';
+import commandProjects from './db/commandProjects.json';
+import ownProjects from './db/ownProjects.json';
+import experience from './db/experience.json';
+import education from './db/education.json';
 
 function App() {
   return (
-    <Wrapper>
+    <Container>
       <Sidebar
         contacts={contacts}
         techSkills={techSkills}
@@ -23,7 +23,7 @@ function App() {
         experience={experience}
         education={education}
       />
-    </Wrapper>
+    </Container>
   );
 }
 

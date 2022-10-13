@@ -22,16 +22,28 @@ function AboutMe({ commandProjects, ownProjects, experience, education }) {
           <span className={s.typeProject}>Teamwork</span> projects
         </h4>
         <ol className={s.list}>
-          {commandProjects.map(({ id, label, link, tech }) => (
-            <Projects key={id} label={label} link={link} tech={tech} />
+          {commandProjects.map(({ id, label, link, tech, linkGit }) => (
+            <Projects
+              key={id}
+              label={label}
+              link={link}
+              tech={tech}
+              linkGit={linkGit}
+            />
           ))}
         </ol>
         <h4 className={s.subTitle}>
           <span className={s.typeProject}>My personal</span> projects
         </h4>
         <ol>
-          {ownProjects.map(({ id, label, link, tech }) => (
-            <Projects key={id} label={label} link={link} tech={tech} />
+          {ownProjects.map(({ id, label, link, tech, linkGit }) => (
+            <Projects
+              key={id}
+              label={label}
+              link={link}
+              tech={tech}
+              linkGit={linkGit}
+            />
           ))}
         </ol>
       </div>
@@ -48,7 +60,7 @@ function AboutMe({ commandProjects, ownProjects, experience, education }) {
                 country={country}
                 duties={duties}
               />
-            ),
+            )
           )}
         </ul>
       </div>

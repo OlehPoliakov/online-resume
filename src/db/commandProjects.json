@@ -1,0 +1,16 @@
+[
+  {
+    "id": "id-1",
+    "label": "IceCream",
+    "link": "https://olehpoliakov.github.io/Bootcamp-27-teamwork/",
+    "linkGit": "https://github.com/OlehPoliakov/Bootcamp-27-teamwork",
+    "tech": "HTML, SASS, JS, Parcel"
+  },
+  {
+    "id": "id-2",
+    "label": "Filmoteka",
+    "link": "https://olehpoliakov.github.io/Filmoteka/index.html",
+    "linkGit": "https://github.com/OlehPoliakov/Filmoteka.git",
+    "tech": "HTML, SASS, JS, REST API, AJAX, Parcel"
+  }
+]

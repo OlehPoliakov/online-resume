@@ -1,0 +1,9 @@
+[
+  {
+    "id": "id-1",
+    "label": "Web Studio",
+    "link": "https://olehpoliakov.github.io/goit-markup-hw-08./",
+    "linkGit": "https://github.com/OlehPoliakov/goit-markup-hw-08.",
+    "tech": "HTML, SASS, JS, Parcel"
+  }
+]

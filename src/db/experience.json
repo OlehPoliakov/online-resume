@@ -1,0 +1,48 @@
+[
+  {
+    "id": "id-115",
+    "profession": "Team Lead (Call Center)",
+    "company": "Premium Activ, Brain capital",
+    "time": "February 2020 - April 2022",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Information gathering and processing."
+      },
+      {
+        "id": "2",
+        "duty": "The daily control and tasking."
+      },
+      {
+        "id": "3",
+        "duty": "Monitoring of management plans."
+      },
+      {
+        "id": "4",
+        "duty": "Data analysis in Excel."
+      }
+    ]
+  },
+  {
+    "id": "id-114",
+    "profession": "Manager (Call Center)",
+    "company": "Green factor",
+    "time": "August 2019 - February 2020",
+    "country": "Ukraine",
+    "duties": [
+      {
+        "id": "1",
+        "duty": "Conducting business negotiations (in telephone mode)."
+      },
+      {
+        "id": "2",
+        "duty": "Notification of the client about the presence of overdue debts."
+      },
+      {
+        "id": "3",
+        "duty": "Analysis, repayment monitoring."
+      }
+    ]
+  }
+]

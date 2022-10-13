@@ -1,15 +1,14 @@
 [
   {
     "id": "id-1",
-    "university": "GoIT",
-    "label": "",
-    "time": "",
-    "link": ""
+    "university": "IT School GoIT (Kyiv)",
+    "label": "Front-end Developer",
+    "time": "2022"
   },
   {
     "id": "id-2",
     "university": "Kharkiv Nationals University of Civil Defense of Ukraine",
     "label": "Engineer",
-    "time": "September 2009 - June 2014"
+    "time": "September 2009 - 2014"
   }
 ]

@@ -4,7 +4,7 @@ import SoftSkills from '../SoftSkills';
 import PropTypes from 'prop-types';
 import s from './Sidebar.module.css';
 import myPhoto from '../../assets/img/photo.jpeg';
-import sv from '../../assets/SV.pdf';
+import cv from '../../assets/cv.pdf';
 
 function Sidebar({ contacts, techSkills, softSkills }) {
   return (
@@ -37,13 +37,13 @@ function Sidebar({ contacts, techSkills, softSkills }) {
       <div className={s.section}>
         <h3 className={s.title}>Language</h3>
         <p className={s.text}>English - intermediate</p>
+        <p className={s.text}>Ukrainian - Native</p>
+        <p className={s.text}>Russian - Native</p>
       </div>
 
-      <div className={s.section}>
-        <a className={s.link} href={sv} target="_blank" rel="noreferrer">
-          Download CV
-        </a>
-      </div>
+      <a className={s.link} href={cv} target="_blank" rel="noreferrer">
+        Download CV
+      </a>
     </aside>
   );
 }

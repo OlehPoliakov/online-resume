@@ -1,6 +1,8 @@
 .container {
   padding: 50px;
   width: 100%;
+  background: #e6e6fa2d;
+  box-shadow: var(--boxShadow);
 }
 
 .section:not(:last-child) {
@@ -13,12 +15,14 @@
   line-height: 1.2;
   text-transform: uppercase;
   color: var(--accentColor);
+  margin-bottom: 16px;
 }
 
 .name {
   font-weight: 700;
   font-size: 45px;
-  line-height: 1.8;
+  line-height: 1.2;
+  margin-bottom: 16px;
 }
 
 .description {
