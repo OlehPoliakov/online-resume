@@ -9,7 +9,7 @@
   {
     "id": "id-2",
     "label": "Filmoteka",
-    "link": "https://olehpoliakov.github.io/Filmoteka/index.html",
+    "link": "https://olehpoliakov.github.io/Filmoteka",
     "linkGit": "https://github.com/OlehPoliakov/Filmoteka.git",
     "tech": "HTML/SASS, JS, API, AJAX, Parcel"
   },
