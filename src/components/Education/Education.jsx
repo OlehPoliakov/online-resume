@@ -9,7 +9,7 @@ function Education({ university, label, time, link }) {
       </a>
       <span className={s.time}>
         {time}
-        <span className={s.divider}> |</span> Ukraine
+        <span className={s.divider}></span>
       </span>
     </li>
   );

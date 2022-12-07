@@ -8,10 +8,10 @@ function AboutMe({ commandProjects, ownProjects, experience, education }) {
   return (
     <div className={s.container}>
       <div className={s.section}>
-        <h2 className={s.profession}>Front-end (React) Developer</h2>
+        <h2 className={s.profession}>Fullstack Developer</h2>
         <h1 className={s.name}>Oleh Poliakov</h1>
         <p className={s.description}>
-          I'm a Front-end Developer and looking for an interesting job. I want
+          I'm a Fullstack Developer and looking for an interesting job. I want
           to be in a good team to improve my skills and use them for interesting
           tasks. I am a fast learner, responsible, ready for hard tasks.
         </p>

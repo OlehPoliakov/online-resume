@@ -9,7 +9,7 @@ import cv from '../../assets/cv.pdf';
 function Sidebar({ contacts, techSkills, softSkills }) {
   return (
     <aside className={s.sidebar}>
-      <img src={myPhoto} alt="Yermakova Anastasiia" className={s.photo} />
+      <img src={myPhoto} alt="Oleh Poliakov" className={s.photo} />
       <div className={s.section}>
         <h3 className={s.title}>Contacts</h3>
         <ul>
@@ -41,9 +41,9 @@ function Sidebar({ contacts, techSkills, softSkills }) {
         <p className={s.text}>Russian - Native</p>
       </div>
 
-      <a className={s.link} href={cv} target="_blank" rel="noreferrer">
+      {/* <a className={s.link} href={cv} target="_blank" rel="noreferrer">
         Download CV
-      </a>
+      </a> */}
     </aside>
   );
 }
