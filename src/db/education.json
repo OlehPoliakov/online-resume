@@ -9,6 +9,12 @@
     "id": "id-2",
     "university": "IT School GoIT (Kyiv)",
     "label": "Fullstack Developer",
-    "time": "2022 | Kyiv"
+    "time": "2022-2023 | Kyiv"
+  },
+  {
+    "id": "id-3",
+    "university": "Upwork (freelance)",
+    "label": "Fullstack Developer",
+    "time": "2023 | Worldwide"
   }
 ]

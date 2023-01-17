@@ -1,6 +1,9 @@
 .sidebar {
-  min-width: 300px;
-  padding: 25px;
+  min-width: 220px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 15px;
   background: #1e2939;
   border-bottom-left-radius: 5px;
   border-top-left-radius: 5px;
@@ -8,16 +11,18 @@
 
 .photo {
   border-radius: 50%;
+  padding-bottom: 16px;
+  max-width: 100%;
 }
 
 .section {
-  margin-top: 50px;
-  padding-left: 20px;
+  width: 200px;
+  margin: 0 auto;
 }
 
 .title {
-  padding-left: 20px;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
+  text-align: start;
   font-weight: 700;
   font-size: 22px;
   line-height: 1.09;
@@ -31,11 +36,21 @@
   color: #c2c5c9;
 }
 
+p.text{
+  display: inline-block;
+}
+
+p.text~span {
+  list-style: circle;
+  font-size: 14px;
+  line-height: 1.71;
+  color: #c2c5c9;
+}
+
 .link {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-width: 200px;
   height: 50px;
   margin-top: 25px;
 

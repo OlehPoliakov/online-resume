@@ -1,12 +1,18 @@
 .container {
-  padding: 50px;
-  width: 100%;
+  padding: 15px;
+  min-width: 225px;
   background: #e6e6fa2d;
   box-shadow: var(--boxShadow);
+  width: 800px;
 }
 
-.section:not(:last-child) {
-  margin-bottom: 40px;
+.section {
+  display: flex;
+  flex-direction: column;
+  max-width: 90%;
+  margin: 0 auto;
+  gap: 15px;
+  padding: 20px 0;
 }
 
 .profession {
@@ -15,31 +21,28 @@
   line-height: 1.2;
   text-transform: uppercase;
   color: var(--accentColor);
-  margin-bottom: 16px;
 }
 
 .name {
   font-weight: 700;
   font-size: 45px;
   line-height: 1.2;
-  margin-bottom: 16px;
 }
 
 .description {
   font-size: 16px;
   line-height: 1.71;
+  max-width: 600px;
 }
 
 .title {
-  margin-bottom: 20px;
-
   font-weight: 700;
-  font-size: 22px;
+  font-size: 24px;
   line-height: 1.09;
+  margin-bottom: 15px;
 }
 
 .subTitle {
-  margin-bottom: 10px;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.5;
@@ -49,6 +52,8 @@
   color: var(--accentColor);
 }
 
-.list {
-  margin-bottom: 15px;
+.list{
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
 }

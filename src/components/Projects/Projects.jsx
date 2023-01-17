@@ -1,11 +1,11 @@
 import s from './Projects.module.css';
 
-function Projects({ label, link, tech, linkGit }) {
+function Projects({ label, link, tech, linkGit, role }) {
   return (
     <li className={s.item}>
       <div className={s.flex}>
         <a className={s.link} href={link} target="_blank" rel="noreferrer">
-          {label}
+        Link {label}
         </a>
         <a
           className={s.linkGit}
@@ -13,12 +13,11 @@ function Projects({ label, link, tech, linkGit }) {
           target="_blank"
           rel="noreferrer"
         >
-          Link
+          Link GitHub
         </a>
-        <span>
-          <b>[</b> <span className={s.name}>{tech}</span> <b>]</b>
-        </span>
       </div>
+      <p className={s.role}>Сontents: {role}</p>
+      <p className={s.tehnology}>Tehnology: {tech}</p>
     </li>
   );
 }

@@ -1,30 +1,18 @@
 [
   {
     "id": "id-1",
-    "label": "Web Studio",
-    "link": "https://olehpoliakov.github.io/goit-markup-hw-08./",
-    "linkGit": "https://github.com/OlehPoliakov/goit-markup-hw-08.",
-    "tech": "HTML/CSS, JS, Parcel"
+    "label": "FishStack",
+    "link": "https://fishstack.online/",
+    "linkGit": "https://github.com/fishstackapp",
+    "tech": "React, TypeScript ,Node.js, GraphQL, Tailwindcss, Hasura, ...other ",
+    "role": "Full development cycle. A commercial project that successfully copes with its task, with admin panel and detailed analytics on ReactAdmin framework. Database GraphQL and Hasura. Server part netlify functions"
   },
   {
     "id": "id-2",
-    "label": "Image search",
-    "link": "https://olehpoliakov.github.io/goit-js-hw-11/",
-    "linkGit": "https://github.com/OlehPoliakov/goit-js-hw-11.git",
-    "tech": "HTML/SASS, JS, API, AJAX, Parcel"
-  },
-  {
-    "id": "id-3",
-    "label": "Cinema search",
+    "label": "Kinopoisk",
     "link": "https://olehpoliakov.github.io/goit-react-hw-05-movies/",
-    "linkGit": "https://github.com/OlehPoliakov/goit-react-hw-05-movies.git",
-    "tech": "REACT, REDUX, API, Webpack"
-  },
-  {
-    "id": "id-4",
-    "label": "PhoneBook",
-    "link": "https://olehpoliakov.github.io/goit-react-hw-08-phonebook/",
-    "linkGit": "https://github.com/OlehPoliakov/goit-react-hw-08-phonebook.git",
-    "tech": "REACT, REDUX, API, Webpack"
+    "linkGit": "https://github.com/OlehPoliakov/goit-react-hw-05-movies",
+    "tech": "Responsive/Adaptive design, REACT, REDUX, API, Webpack, @moution.",
+    "role": "New movie search app. Project was written only the front part, the database was used."
   }
 ]

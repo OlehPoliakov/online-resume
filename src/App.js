@@ -18,8 +18,8 @@ function App() {
         softSkills={softSkills}
       />
       <AboutMe
-        commandProjects={commandProjects}
         ownProjects={ownProjects}
+        commandProjects={commandProjects}
         experience={experience}
         education={education}
       />

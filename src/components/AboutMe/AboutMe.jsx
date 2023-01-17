@@ -19,30 +19,32 @@ function AboutMe({ commandProjects, ownProjects, experience, education }) {
       <div className={s.section}>
         <h3 className={s.title}>Projects</h3>
         <h4 className={s.subTitle}>
-          <span className={s.typeProject}>Teamwork</span> projects
+          <span className={s.typeProject}>Personal</span> projects
         </h4>
         <ol className={s.list}>
-          {commandProjects.map(({ id, label, link, tech, linkGit }) => (
+          {ownProjects.map(({ id, label, link, tech, linkGit, role }) => (
             <Projects
               key={id}
               label={label}
               link={link}
               tech={tech}
               linkGit={linkGit}
+              role={role}
             />
           ))}
         </ol>
         <h4 className={s.subTitle}>
-          <span className={s.typeProject}>My personal</span> projects
+          <span className={s.typeProject}>Teamwork</span> projects
         </h4>
-        <ol>
-          {ownProjects.map(({ id, label, link, tech, linkGit }) => (
+        <ol className={s.list}>
+          {commandProjects.map(({ id, label, link, tech, linkGit, role }) => (
             <Projects
               key={id}
               label={label}
               link={link}
               tech={tech}
               linkGit={linkGit}
+              role={role}
             />
           ))}
         </ol>

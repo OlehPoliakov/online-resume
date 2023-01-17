@@ -36,9 +36,24 @@ function Sidebar({ contacts, techSkills, softSkills }) {
       </div>
       <div className={s.section}>
         <h3 className={s.title}>Language</h3>
-        <p className={s.text}>English - intermediate</p>
-        <p className={s.text}>Ukrainian - Native</p>
-        <p className={s.text}>Russian - Native</p>
+        <div>
+          <p className={s.text}>
+            English : 
+          </p>
+          <span>B1</span>
+        </div>
+        <div>
+          <p className={s.text}>
+            Ukrainian : 
+          </p>
+          <span>Native</span>
+        </div>
+        <div>
+          <p className={s.text}>
+            Russian : 
+          </p>
+          <span>Advanced</span>
+        </div>
       </div>
 
       {/* <a className={s.link} href={cv} target="_blank" rel="noreferrer">

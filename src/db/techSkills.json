@@ -1,7 +1,7 @@
 [
   {
     "id": "id-1",
-    "label": "HTML5/CSS3/SASS Responsive/Adaptive design GIT "
+    "label": "HTML5/CSS3/SASS Responsive/Adaptive design"
   },
   {
     "id": "id-2",
@@ -25,7 +25,7 @@
   },
   {
     "id": "id-7",
-    "label": "Handlebars"
+    "label": "TypeScript"
   },
   {
     "id": "id-8",
@@ -49,6 +49,30 @@
   },
   {
     "id": "id-13",
-    "label": "TypeScript"
+    "label": "Express"
+  },
+  {
+    "id": "id-14",
+    "label": "MongoDB"
+  },
+  {
+    "id": "id-15",
+    "label": "MySQL"
+  },
+  {
+    "id": "id-16",
+    "label": "Tailwindcss"
+  },
+  {
+    "id": "id-17",
+    "label": "GraphQL"
+  },
+  {
+    "id": "id-18",
+    "label": "Hasura"
+  },
+  {
+    "id": "id-19",
+    "label": "Docker"
   }
 ]

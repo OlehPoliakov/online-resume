@@ -1,23 +1,18 @@
 [
   {
     "id": "id-1",
-    "label": "IceCream",
-    "link": "https://olehpoliakov.github.io/Bootcamp-27-teamwork/",
-    "linkGit": "https://github.com/OlehPoliakov/Bootcamp-27-teamwork",
-    "tech": "HTML/CSS, JS, Parcel"
-  },
-  {
-    "id": "id-2",
-    "label": "Filmoteka",
-    "link": "https://olehpoliakov.github.io/Filmoteka",
-    "linkGit": "https://github.com/OlehPoliakov/Filmoteka.git",
-    "tech": "HTML/SASS, JS, API, AJAX, Parcel"
+    "label": "Care your pets",
+    "link": "https://care-your-pets.netlify.app/",
+    "linkGit": "https://github.com/PetsSupport",
+    "tech": "Responsive/Adaptive design, REACT, REDUX, API, Node.js, Express, MongoDB, Webpack, ...other",
+    "role": "Application for finding and selling petsin which I developed the front end of the application. Аront end with minimal use of libraries. Used to store state Redux. Back of mangoDB database, Express"
   },
   {
     "id": "id-3",
     "label": "Books Reading",
     "link": "https://book-read.netlify.app",
     "linkGit": "https://github.com/OlehPoliakov/bookread.git",
-    "tech": "REACT, REDUX, API, Webpack"
+    "tech": "Responsive/Adaptive design, REACT, REDUX, API, Webpack, @moution.",
+    "role": "Application for self-control, as well as analytics of reading literature."
   }
 ]
