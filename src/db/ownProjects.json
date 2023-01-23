@@ -4,8 +4,8 @@
     "label": "FishStack",
     "link": "https://fishstack.online/",
     "linkGit": "https://github.com/fishstackapp",
-    "tech": "React, TypeScript ,Node.js, GraphQL, Tailwindcss, Hasura, ...other ",
-    "role": "Full development cycle. A commercial project that successfully copes with its task, with admin panel and detailed analytics on ReactAdmin framework. Database GraphQL and Hasura. Server part netlify functions"
+    "tech": "React, TypeScript, Node.js, GraphQL, Hasura, Serverless, Tailwindcss,  ...other",
+    "role": "Full development cycle. A commercial project that successfully copes with tasks and admin panel in detailed analytics of ReactAdmin framework. Database GraphQL and Hasura. API serverless Netlify functions"
   },
   {
     "id": "id-2",

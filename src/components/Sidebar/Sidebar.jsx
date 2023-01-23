@@ -38,19 +38,19 @@ function Sidebar({ contacts, techSkills, softSkills }) {
         <h3 className={s.title}>Language</h3>
         <div>
           <p className={s.text}>
-            English : 
+            English:&nbsp;
           </p>
           <span>B1</span>
         </div>
         <div>
           <p className={s.text}>
-            Ukrainian : 
+            Ukrainian:&nbsp; 
           </p>
           <span>Native</span>
         </div>
         <div>
           <p className={s.text}>
-            Russian : 
+            Russian:&nbsp;
           </p>
           <span>Advanced</span>
         </div>

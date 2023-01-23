@@ -5,7 +5,7 @@
     "link": "https://care-your-pets.netlify.app/",
     "linkGit": "https://github.com/PetsSupport",
     "tech": "Responsive/Adaptive design, REACT, REDUX, API, Node.js, Express, MongoDB, Webpack, ...other",
-    "role": "Application for finding and selling petsin which I developed the front end of the application. Аront end with minimal use of libraries. Used to store state Redux. Back of mangoDB database, Express"
+    "role": "Application for finding and selling pets in which i developed the front end of the application. Аront end with minimal use of libraries. Used to store state Redux. Back of mangoDB database, Express"
   },
   {
     "id": "id-3",
