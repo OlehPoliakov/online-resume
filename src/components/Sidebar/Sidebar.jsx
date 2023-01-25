@@ -4,7 +4,7 @@ import SoftSkills from '../SoftSkills';
 import PropTypes from 'prop-types';
 import s from './Sidebar.module.css';
 import myPhoto from '../../assets/img/photo.jpeg';
-// import cv from '../../assets/cv.pdf';
+import cv from '../../assets/OlehPoliakov.pdf';
 
 function Sidebar({ contacts, techSkills, softSkills }) {
   return (
@@ -56,9 +56,9 @@ function Sidebar({ contacts, techSkills, softSkills }) {
         </div>
       </div>
 
-      {/* <a className={s.link} href={cv} target="_blank" rel="noreferrer">
-        Download CV
-      </a> */}
+      <a className={s.link} href={cv} target="_blank" rel="noreferrer">
+        Download education
+      </a>
     </aside>
   );
 }

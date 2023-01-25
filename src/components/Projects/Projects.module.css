@@ -25,6 +25,7 @@
 
   color: var(--primaryTextColor);
   transition: color 250ms var(--timingFn);
+
 }
 
 .link:after {

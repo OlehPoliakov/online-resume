@@ -14,6 +14,8 @@
   color: #c2c5c9;
 
   transition: color 250ms var(--timingFn);
+
+  text-decoration: underline;
 }
 
 .link:hover,
