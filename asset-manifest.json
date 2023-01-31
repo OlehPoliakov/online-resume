@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/online-resume/static/css/main.530e6e95.css",
-    "main.js": "/online-resume/static/js/main.ff3def62.js",
+    "main.js": "/online-resume/static/js/main.e0072bb1.js",
     "static/media/OlehPoliakov.pdf": "/online-resume/static/media/OlehPoliakov.a1f56c2be464140a0f03.pdf",
     "static/media/photo.jpeg": "/online-resume/static/media/photo.de98a9b32459fdb676fc.jpeg",
     "index.html": "/online-resume/index.html",
     "main.530e6e95.css.map": "/online-resume/static/css/main.530e6e95.css.map",
-    "main.ff3def62.js.map": "/online-resume/static/js/main.ff3def62.js.map"
+    "main.e0072bb1.js.map": "/online-resume/static/js/main.e0072bb1.js.map"
   },
   "entrypoints": [
     "static/css/main.530e6e95.css",
-    "static/js/main.ff3def62.js"
+    "static/js/main.e0072bb1.js"
   ]
 }
